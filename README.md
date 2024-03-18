@@ -25,7 +25,7 @@ The course lasted 324 hours with synchronous classes every Monday, Wednesday and
 
 ## Purpose 
 
-At the end of the second module, each student was asked to carry out an individual project and a group project. This project refers to the individual one. The objective of this project was to build a system to manage loan requests made the day before. The following text contains all the project requirements that were written by the module teacher. To build this project was used javascript and typescript. 
+At the end of the second module, each student was asked to carry out an individual project and a group project. This project refers to the individual one. The objective of this project was to build a system to manage loan requests made the day before. The following text contains all the project requirements that were written by the module teacher. To build this project was used typescript language. 
 
 ## Requirements
 
