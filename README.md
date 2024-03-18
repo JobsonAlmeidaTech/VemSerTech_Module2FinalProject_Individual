@@ -1,8 +1,8 @@
 # <p align="center"> Vem Ser Tech Course - Module 2 Individual Final Project - Loan System </p>
 
 <p align="center">
-<img src="VemSerTech.jpg"  alt="VemSerTech" height="200px align="left" />
-<img src="loan.jpg"  alt="loan" height="200px align="right"/>
+<img src="images/VemSerTech.jpg"  alt="VemSerTech" height="200px align="left" />
+<img src="images/loan.jpg"  alt="loan" height="200px align="right"/>
 </p>
 
 ## Vem Ser Tech
