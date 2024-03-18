@@ -1,4 +1,4 @@
-# <p align="center"> Vem Ser Tech Course - Final Individual Project of Module 2 - Loan System </p>
+# <p align="center"> Vem Ser Tech Course - Individual Final Project of Module 2 - Loan System </p>
 
 <p align="center">
 <img src="images/VemSerTech.jpg"  alt="VemSerTech" height="200px align="left" />
