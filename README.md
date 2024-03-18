@@ -36,6 +36,6 @@ A loan will be approved when:
 - The total loan amount is greater than the required amount.
 - The total value of the loan is equal to the number of installments \* value per installment.
 
-## Comments
+#### Comments
 
 Use static functions and abstract classes.
